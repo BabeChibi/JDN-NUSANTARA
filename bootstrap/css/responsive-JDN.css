@@ -1,0 +1,293 @@
+@media(max-width: 1024px){
+	.skin-slide{
+		height: auto;
+	}
+	.item-profil{
+		margin-top: 6%;
+	}
+	.skin-page-about{
+		height: 1050px;
+	}
+	.item-profil-judul{
+		margin-left: -2%;
+	}
+	.item-page-about-img{
+		margin-left: 25%;
+	}
+	.skin-page-profil{
+		height: 600px;
+	}
+	.item-page-profil-img{
+		margin-left: 26%;
+	}
+	.skin-page-visi-misi{
+		height: 600px;
+	}
+	.item-page-visimisi-img{
+		margin-left: 26%;
+	}
+	.item-page-visimisi{
+		font-size: 30px;
+	}
+	.skin-page-artikel{
+		height: auto;
+	}
+	.item-page-artikel-img{
+		width: 220px;
+	}
+	.skin-page-contact{
+		height: 600px;
+	}
+	.skin-page-detail-artikel{
+		height: auto;
+	}
+	.item-page-detail-artikel-img{
+		margin-left: 20%;
+	}
+	.skin-artikel{
+		height: 730px;
+	}
+	.item-artikel{
+		width: 250px;
+	}
+	.item-visi{
+		margin-top: 5%;
+	}
+}
+@media(max-width: 768px){
+	.item-artikel{
+		width: 150px;
+	}
+	.skin-artikel{
+		height: 730px;
+	}
+	.skin-about{
+		height: 420px;
+	}
+	.item-profil{
+		margin-top: 8%;
+	}
+	.skin-page-contact{
+		height:710px;
+	}
+	.item-page-artikel-img{
+		width: 150px;
+	}
+	.skin-page-artikel{
+		height: auto;
+	}
+	.skin-page-visi-misi{
+		height: 710px;
+	}
+	.skin-page-profil{
+		height: 710px;
+	}
+	.item-page-about-img{
+		margin-left: 16%;
+	}
+	.item-page-detail-artikel-img{
+		margin-left: 10%;
+	}
+	.skin-page-detail-artikel{
+		height: auto;
+	}
+	.item-visi{
+		margin-left: 20%;
+	}
+}
+@media(max-width: 414px){
+	.item-about img{
+		width: 80%;
+		margin-left: 9%;
+	}
+	.skin-about{
+		height: auto;
+	}
+	.item-profil{
+		margin-top: 30%;
+	}
+	.item-profil h1{
+		margin-right: 35%;
+	}
+	.skin-profil{
+		height: 400px;
+		background-size: 80%;
+	}
+	.skin-artikel{
+		height: auto;
+		padding-bottom: 10px;
+	}
+	.img-contact{
+		margin-bottom: 20%;
+	}
+	.skin-contact{
+		height: 250px;
+	}
+	.item-page-about-img{
+		width: 280px;
+		margin-left: 10%;
+	}
+	.skin-page-about{
+		height: auto;
+	}
+	.item-page-profil-img{
+		width: 250px;
+		margin-left: 15%;
+	}
+	.item-page-visimisi-img{
+		width: 250px;
+		margin-left: 15%;
+	}
+	.skin-page-artikel{
+		height: auto;
+	}
+	.item-page-artikel-paging .pagination{
+		margin-left: 0px;
+	}
+	.item-page-detail-artikel-img{
+		width: 280px;
+		margin-left: 15%;
+	}
+	.item-artikel-more{
+		margin-left: 0%;
+	}
+	.item-artikel-isi{
+		display: none;
+	}
+	.item-page-artikel-isi{
+		display: none;
+	}
+	.item-page-artikel-img{
+		width: 170px;
+	}
+	.item-artikel{
+		width: 170px;
+	}
+	.back-visi{
+		margin-top:-5%;
+	}
+	.item-visi{
+		margin-left: 4.5%;
+		padding-top: 14.5%;
+	}
+}
+@media(max-width: 375px){
+	.back-visi{
+		height: 280px;
+	}
+	.item-profil h1{
+		margin-right: 0%;
+	}
+	.item-profil{
+		margin-top: 0%;
+		margin-bottom: 10%;
+	}
+	.skin-profil{
+		height: 340px;
+		background-position: top;
+	}
+	.skin-artikel{
+		height:auto;
+		padding-bottom: 10px;
+	}
+	.item-page-about-img{
+		margin-left: 5%;
+	}
+	.item-page-profil-img{
+		margin-left: 7%;
+	}
+	.item-page-visimisi-img{
+		margin-left: 7%;
+	}
+	.item-page-detail-artikel-img{
+		margin-left: 8%;
+	}
+	.item-artikel-isi{
+		word-break: break-all;
+		display: none;
+	}
+}
+@media(max-width: 320px){
+	.back-visi{
+		height: 220px;
+	}
+	.skin-visi-misi{
+		background-size: 100% 90%;
+	}
+	.item-artikel{
+		width: 120px;
+	}
+	.skin-artikel{
+		height: 1050px;
+	}
+	.item-page-about-img{
+		width: 200px;
+		margin-left: 10%;
+	}
+	.skin-page-about p{
+		font-size: 13px;
+	}
+	.item-page-profil-img{
+		width: 190px;
+		margin-left: 11%;
+	}
+	.skin-page-profil p{
+		font-size: 13px;
+	}
+	.skin-page-profil{
+		height: auto;
+	}
+	.item-page-visimisi-img{
+		width: 190px;
+		margin-left: 11%;
+	}
+	.item-page-visimisi{
+		font-size: 20px;
+	}
+	.skin-page-visi-misi p{
+		font-size: 13px;
+	}
+	.skin-page-visi-misi{
+		height: auto;
+	}
+	.item-page-artikel-img{
+		width: 110px;
+	}
+	.item-page-detail-artikel-img{
+		width: 250px;
+		margin-left: 5%;
+	}
+	.skin-page-detail-artikel p{
+		font-size: 13px;
+	}
+}
+@media(max-width: 360px){
+	.back-visi{
+		height:270px;
+	}
+	.skin-artikel{
+		height: auto;
+		padding-bottom: 10px;
+	}
+	.skin-page-about p {
+		font-size: 12px;
+	}
+	.skin-page-profil p {
+		font-size: 12px;
+	}
+	.item-page-visimisi{
+		font-size: 20px;
+	}
+	.skin-artikel h3{
+		font-size: 19px;
+	}
+	.skin-page-artikel h3{
+		font-size: 19px;
+	}
+	.skin-page-visi-misi p{
+		font-size: 12px;
+	}
+	.skin-page-detail-artikel p{
+		font-size: 12px;
+	}
+}

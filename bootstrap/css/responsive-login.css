@@ -1,0 +1,36 @@
+@media(max-width: 1024px){
+	.skin-logo{
+		margin-top: 30%;
+	}
+	.skin-logo img{
+		margin-left: -50%;
+	}
+}
+@media(max-width: 768px){
+	.skin-logo{
+		margin-top: 50%;
+	}
+	.skin-logo img{
+		margin-left: 10%;
+	}
+}
+@media(max-width: 414px){
+	.skin-logo img{
+		margin-left: -110%;
+	}
+}
+@media(max-width: 375px){
+	.skin-logo img{
+		margin-left: -190%;
+	}
+}
+@media(max-width: 320px){
+	.skin-logo img{
+		margin-left: -650%;
+	}
+}
+@media(max-width: 360px){
+	.skin-logo img{
+		margin-left: -250%;
+	}
+}
